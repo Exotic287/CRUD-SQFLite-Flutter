@@ -1,2 +1,2 @@
-# Tugas 3
+# UTS
 Membuat CRUD menggunakan Flutter dan menggunakan Package SQFLite
